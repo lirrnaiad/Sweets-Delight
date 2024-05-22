@@ -97,6 +97,11 @@ img {
   color: #fff;
   font-size: 50px;
   font-weight: normal;
+  text-transform: lowercase;
+}
+
+.hero h1:first-letter {
+  text-transform: uppercase;
 }
 
 .hero h3 {
